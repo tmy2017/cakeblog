@@ -83,4 +83,9 @@ class PostsController extends AppController
 
         return $this->redirect(['action' => 'index']);
     }
+
+    public function my_action()
+    {
+        $this->render('Users.UserDetails/custom_file');
+    }
 }

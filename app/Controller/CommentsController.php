@@ -9,7 +9,14 @@ class CommentsController extends AppController
         }
 
         return $this->Comment->find('all', [
-            'order' => 'Comment.created DESC', 
+            'order' => 'Comment.created DESC',
             'limit' => 10
         ]);
+    }
+
+    public function index()
+    {
+        // do something.
+        $this->response->disableCache();
+    }
 }

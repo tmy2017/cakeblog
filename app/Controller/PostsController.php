@@ -3,7 +3,12 @@
 class PostsController extends AppController
 {
     public $helpers = ['Html', 'Form', 'Flash'];
-    public $component = ['Flash'];
+    public $component = [
+        'Flash',
+        'Auth' => ['className' => 'MyAuth'],
+        'Session',
+        'Cookie',
+    ];
 
     public function index()
     {

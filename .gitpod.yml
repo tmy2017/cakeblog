@@ -4,5 +4,6 @@ tasks:
       mysql -e "ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '';"
       mysql -e "create database cake"
       mysql -D cake < app/Config/seed.sql
+      mv app/Config/database.php.default app/Config/database.php
     command: 
       app/Console/cake server -p 8765

@@ -4,7 +4,7 @@
 ## -- END --
 
 
-image: tmy2017/gitpod-pstorm-with-php71-mysql8:ver-1640846949
+image: tmy2017/gitpod-pstorm-with-php71-mysql8:ver-1641418346
 tasks:
   - init: |
       mysql -e "ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '';"

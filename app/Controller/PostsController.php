@@ -17,6 +17,7 @@ class PostsController extends AppController
 
     public function view($id = null)
     {
+        // phpinfo();
         if (!$id) {
             throw new NotFoundException(__('Invalid post'));
         }

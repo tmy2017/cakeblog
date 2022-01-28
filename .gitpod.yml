@@ -1,9 +1,19 @@
+## -- README --
+# 
+# 1) composer.json NOT needed to do composer install to make app/Console/cake work
+## -- END --
+
+
 image: tmy2017/gitpod-pstorm-with-php71-mysql8:ver-1640846949
 tasks:
   - init: |
       mysql -e "ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '';"
       mysql -e "create database cake"
       mysql -D cake < app/Config/seed.sql
-      mv app/Config/database.php.default app/Config/database.php
+      cp app/Config/database.php.default app/Config/database.php
     command: 
       app/Console/cake server -p 8765
+ports:
+  - port: 8765
+    onOpen: open-preview
+    visibility: private

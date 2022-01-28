@@ -7,6 +7,8 @@
 image: tmy2017/gitpod-pstorm-with-php71-mysql8:ver-1641418346
 tasks:
   - init: |
+      # seems like mysql sometimes not ready?
+      sleep 3
       mysql -e "ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '';"
       mysql -e "create database cake"
       mysql -D cake < app/Config/seed.sql

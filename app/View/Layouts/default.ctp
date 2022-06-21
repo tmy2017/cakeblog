@@ -14,7 +14,7 @@
  * @license       https://opensource.org/licenses/mit-license.php MIT License
  */
 
-$cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework');
+$cakeDescription = __d('cake_dev', 'Welcome to Onyx Open House!');
 $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
 ?>
 <!DOCTYPE html>
@@ -38,7 +38,7 @@ $cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version())
 <body>
 	<div id="container">
 		<div id="header">
-			<h1><?php echo $this->Html->link($cakeDescription, 'https://cakephp.org'); ?></h1>
+			<h1><?php echo $this->Html->link($cakeDescription, 'https://8765-' . substr(getenv('GITPOD_WORKSPACE_URL'),8)); ?></h1>
 		</div>
 		<div id="content">
 

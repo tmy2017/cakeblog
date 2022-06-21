@@ -1,4 +1,4 @@
-<h1>Blog posts</h1>
+<h1>Objective: modify this blog app into a "Pokemon manager" = search + CRUD app! </h1>
 <?php echo $this->Html->link(
     'Add Post',
     ['controllers' => 'posts', 'action' => 'add']

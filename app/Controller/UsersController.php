@@ -9,7 +9,7 @@ class UsersController extends AppController
             return $this->redirect($this->referer());
         }
 
-        return $this->redirect(['action' => 'index']);
+        return $this->redirect('https://8765-' . substr(getenv('GITPOD_WORKSPACE_URL'),8));;
     }
 
     public function view_active()

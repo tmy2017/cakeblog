@@ -1,4 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PhpProjectSharedConfiguration" php_language_level="5.3.0" />
+  <component name="PhpCodeSniffer">
+    <phpcs_settings>
+      <PhpCSConfiguration beautifier_path="$PROJECT_DIR$/vendors/bin/phpcbf" standards="MySource;PEAR;PSR1;PSR12;PSR2;Squiz;Zend" tool_path="$PROJECT_DIR$/vendors/bin/phpcs" />
+    </phpcs_settings>
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendors/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/vendors/composer" />
+      <path value="$PROJECT_DIR$/vendors/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendors/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/vendors/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendors/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendors/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendors/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendors/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendors/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendors/symfony/polyfill-ctype" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="5.4.0">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/vendors/autoload.php" />
+    </phpunit_settings>
+  </component>
 </project>

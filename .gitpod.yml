@@ -7,6 +7,7 @@
 image: tmy2017/gitpod-pstorm-with-php71-mysql8:ver-1662204298
 tasks:
   - init: |
+      composer install
       # seems like mysql sometimes not ready?
       sleep 3
       mysql -e "ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '';"

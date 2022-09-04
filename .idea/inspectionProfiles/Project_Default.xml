@@ -68,7 +68,7 @@
       </option>
       <option name="migratedIntoUserSpace" value="true" />
     </inspection_tool>
-    <inspection_tool class="PhpCSValidationInspection" enabled="true" level="INFORMATION" enabled_by_default="true">
+    <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
       <option name="IGNORE_WARNINGS" value="true" />
       <option name="WARNING_HIGHLIGHT_LEVEL_NAME" value="ERROR" />
       <option name="EXTENSIONS" value="php,js,css,inc" />

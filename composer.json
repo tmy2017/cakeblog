@@ -28,7 +28,7 @@
   },
   "require-dev": {
 	"phpunit/phpunit": "^3.7",
-	"squizlabs/php_codesniffer": "*"
+	"cakephp/cakephp-codesniffer": "*"
   },
   "config": {
 	"vendor-dir": "vendors/",

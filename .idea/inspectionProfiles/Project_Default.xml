@@ -70,7 +70,9 @@
     </inspection_tool>
     <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
       <option name="IGNORE_WARNINGS" value="true" />
+      <option name="CODING_STANDARD" value="CakePHP" />
       <option name="WARNING_HIGHLIGHT_LEVEL_NAME" value="ERROR" />
+      <option name="SHOW_SNIFF_NAMES" value="true" />
       <option name="EXTENSIONS" value="php,js,css,inc" />
     </inspection_tool>
     <inspection_tool class="SecurityAdvisoriesInspection" enabled="true" level="WARNING" enabled_by_default="true">

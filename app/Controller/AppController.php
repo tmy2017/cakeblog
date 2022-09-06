@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Application level Controller
  *
@@ -20,9 +19,7 @@
  * @license       https://opensource.org/licenses/mit-license.php MIT License
  */
 
-namespace Aloha;
-
-\App::uses('Controller', 'Controller');
+App::uses('Controller', 'Controller');
 
 /**
  * Application Controller
@@ -30,9 +27,8 @@ namespace Aloha;
  * Add your application-wide methods in the class below, your controllers
  * will inherit them.
  *
- * @package     app.Controller
- * @link        https://book.cakephp.org/2.0/en/controllers.html#the-app-controller
+ * @package		app.Controller
+ * @link		https://book.cakephp.org/2.0/en/controllers.html#the-app-controller
  */
-class AppController extends \Controller
-{
+class AppController extends Controller {
 }

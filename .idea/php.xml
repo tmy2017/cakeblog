@@ -22,6 +22,7 @@
       <path value="$PROJECT_DIR$/vendors/slevomat/coding-standard" />
       <path value="$PROJECT_DIR$/vendors/phpstan/phpdoc-parser" />
       <path value="$PROJECT_DIR$/vendors/dealerdirect/phpcodesniffer-composer-installer" />
+      <path value="$PROJECT_DIR$/lib" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.1">

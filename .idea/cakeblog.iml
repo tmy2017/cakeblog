@@ -15,6 +15,7 @@
       <excludeFolder url="file://$MODULE_DIR$/vendors/phpunit/php-timer" />
       <excludeFolder url="file://$MODULE_DIR$/vendors/symfony/yaml" />
       <excludeFolder url="file://$MODULE_DIR$/vendors/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/lib" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

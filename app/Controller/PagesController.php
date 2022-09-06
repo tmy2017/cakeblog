@@ -48,10 +48,10 @@ class PagesController extends AppController
      * @throws \NotFoundException When the view file could not be found
      * or MissingViewException in debug mode.
      */
-    public function display()
+    public function display(): ?CakeResponse
     {
+		/** @noinspection DuplicatedCode */
         $path = func_get_args();
-
         $count = count($path);
         if (!$count) {
             return $this->redirect('/');

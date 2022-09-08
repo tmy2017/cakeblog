@@ -50,7 +50,7 @@ class PagesController extends AppController
      */
     public function display(): ?CakeResponse
     {
-		/** @noinspection DuplicatedCode */
+        /** @noinspection DuplicatedCode */
         $path = func_get_args();
         $count = count($path);
         if (!$count) {
@@ -80,5 +80,7 @@ class PagesController extends AppController
             }
             throw new NotFoundException();
         }
+
+        return $this->redirect('/');
     }
 }

@@ -1,0 +1,359 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="bookmarks">
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/app/Controller/PostsController.php" />
+            </attributes>
+            <option name="description" value="" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+        </option>
+        <option name="name" value="cakeblog" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="@localhost: DSN" type="27e358d6:DataSourceNode" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="cake: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="cake: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="Family of 1 table (host: schema cake)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="cake: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="Family of 1 table (host: schema cake)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+        <item name="posts: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="mock:///DiffPreview">
+          <provider selected="true" editor-type-id="BackendDiffFileEditorProvider" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Controller/AppController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Controller/CategoriesController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Controller/PostsController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://d4ac518e-a1d8-4f01-b75f-02d1873abbdf/schema/cake/table/posts">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state lastOpenedTimestamp="1662722115628" presentationMode="TABLE" projectRestartId="85ee2b21-1c15-48dd-b67b-6ad3044cf892" pageSize="500">
+              <filtering>
+                <filter text="" />
+              </filtering>
+              <sorting>
+                <sort text="" />
+              </sorting>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Controller/PagesController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="DIFF">
+      <summary usageCount="1" lastUsed="1662720759827" />
+    </fileType>
+    <fileType name="Database Element">
+      <summary usageCount="1" lastUsed="1662722116275" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="2" lastUsed="1662719690136" />
+    </fileType>
+    <fileType name="PHP">
+      <summary usageCount="4" lastUsed="1662720887443" />
+    </fileType>
+    <fileType name="SQL">
+      <summary usageCount="1" lastUsed="1662722083338" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/app/Controller/PostsController.php" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cakeblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cakeblog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cakeblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cakeblog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="cakeblog-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3582000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.083593756" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Bookmarks" order="2" side_tool="true" visible="true" weight="0.32994792" />
+      <window_info id="Commit" order="3" visible="true" weight="0.32994792" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.33043033" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Problems View" order="6" weight="0.33043033" />
+      <window_info anchor="bottom" id="Code Notes" order="7" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="8" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.33043033" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="bottom" id="GraphQL" order="14" />
+      <window_info anchor="bottom" id="Flow" order="15" />
+      <window_info anchor="bottom" id="Services" order="16" />
+      <window_info anchor="bottom" id="SonarLint" order="17" />
+      <window_info anchor="right" id="Database" order="0" visible="true" weight="0.30130208" />
+      <window_info anchor="right" id="make" order="1" side_tool="true" />
+      <window_info anchor="right" id="Tree Of Usages" order="2" />
+      <window_info anchor="right" id="documentation.v2" order="5" side_tool="true" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.083593756" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Bookmarks" order="2" side_tool="true" visible="true" weight="0.083593756" />
+      <window_info id="Commit" order="3" weight="0.32994792" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Problems View" order="6" visible="true" weight="0.33043033" />
+      <window_info anchor="bottom" id="Code Notes" order="7" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="8" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.33043033" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="bottom" id="GraphQL" order="14" />
+      <window_info anchor="bottom" id="Flow" order="15" />
+      <window_info anchor="bottom" id="Services" order="16" />
+      <window_info anchor="bottom" id="SonarLint" order="17" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="make" order="1" side_tool="true" />
+      <window_info anchor="right" id="Tree Of Usages" order="2" />
+      <window_info anchor="right" id="documentation.v2" order="5" side_tool="true" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Commit</value>
+      <value>Database</value>
+      <value>Run</value>
+      <value>Bookmarks</value>
+      <value>Project</value>
+      <value>Problems View</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="1400" y="658" key="#CLI_Interpreters" timestamp="1662720686764">
+      <screen x="852" y="497" width="1920" height="976" />
+    </state>
+    <state x="1400" y="658" key="#CLI_Interpreters/852.497.1920.976@852.497.1920.976" timestamp="1662720686764" />
+    <state x="1347" y="502" width="1168" height="870" key="#Inspections" timestamp="1662722780787">
+      <screen x="852" y="497" width="1920" height="976" />
+    </state>
+    <state x="1347" y="502" width="1168" height="870" key="#Inspections/852.497.1920.976@852.497.1920.976" timestamp="1662722780787" />
+    <state x="1400" y="658" key="#Mess_Detector" timestamp="1662721123754">
+      <screen x="852" y="497" width="1920" height="976" />
+    </state>
+    <state x="1400" y="658" key="#Mess_Detector/852.497.1920.976@852.497.1920.976" timestamp="1662721123754" />
+    <state x="1400" y="658" width="625" height="232" key="#PHPStan" timestamp="1662720915408">
+      <screen x="852" y="497" width="1920" height="976" />
+    </state>
+    <state x="1400" y="658" width="625" height="232" key="#PHPStan/852.497.1920.976@852.497.1920.976" timestamp="1662720915408" />
+    <state x="1400" y="658" key="#PHP_CS_Fixer" timestamp="1662720701983">
+      <screen x="852" y="497" width="1920" height="976" />
+    </state>
+    <state x="1400" y="658" key="#PHP_CS_Fixer/852.497.1920.976@852.497.1920.976" timestamp="1662720701983" />
+    <state x="1400" y="658" key="#PHP_CodeSniffer" timestamp="1662722782874">
+      <screen x="852" y="497" width="1920" height="976" />
+    </state>
+    <state x="1400" y="658" key="#PHP_CodeSniffer/852.497.1920.976@852.497.1920.976" timestamp="1662722782874" />
+    <state x="1400" y="658" key="#Psalm" timestamp="1662720736650">
+      <screen x="852" y="497" width="1920" height="976" />
+    </state>
+    <state x="1400" y="658" key="#Psalm/852.497.1920.976@852.497.1920.976" timestamp="1662720736650" />
+    <state x="1412" y="661" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1662722082438">
+      <screen x="852" y="497" width="1920" height="976" />
+    </state>
+    <state x="1412" y="661" key="#com.intellij.execution.impl.EditConfigurationsDialog/852.497.1920.976@852.497.1920.976" timestamp="1662722082438" />
+    <state x="1609" y="632" key="FileChooserDialogImpl" timestamp="1662720936740">
+      <screen x="852" y="497" width="1920" height="976" />
+    </state>
+    <state x="1609" y="632" key="FileChooserDialogImpl/852.497.1920.976@852.497.1920.976" timestamp="1662720936740" />
+    <state x="1321" y="635" key="SettingsEditor" timestamp="1662722784793">
+      <screen x="852" y="497" width="1920" height="976" />
+    </state>
+    <state x="1321" y="635" key="SettingsEditor/852.497.1920.976@852.497.1920.976" timestamp="1662722784793" />
+    <state x="1476" y="497" key="run.anything.popup" timestamp="1662720809427">
+      <screen x="852" y="497" width="1920" height="976" />
+    </state>
+    <state x="1476" y="497" key="run.anything.popup/852.497.1920.976@852.497.1920.976" timestamp="1662720809427" />
+    <state x="1475" y="710" width="672" height="685" key="search.everywhere.popup" timestamp="1662722148008">
+      <screen x="852" y="497" width="1920" height="976" />
+    </state>
+    <state x="1475" y="710" width="672" height="685" key="search.everywhere.popup/852.497.1920.976@852.497.1920.976" timestamp="1662722148008" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/AppController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/CategoriesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/PagesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d4ac518e-a1d8-4f01-b75f-02d1873abbdf/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://d4ac518e-a1d8-4f01-b75f-02d1873abbdf/schema/cake/table/posts">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1662722115628" presentationMode="TABLE" projectRestartId="85ee2b21-1c15-48dd-b67b-6ad3044cf892" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/PostsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

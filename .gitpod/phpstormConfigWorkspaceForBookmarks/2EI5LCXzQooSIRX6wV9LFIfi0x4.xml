@@ -1,0 +1,365 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="cakeblog" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="131" column="11" selection-start-line="131" selection-start-column="11" selection-end-line="131" selection-end-column="11" />
+              <folding>
+                <element signature="n#inspection_tool#0;n#profile#0;n#component#0;n#!!top" />
+                <element signature="n#option#0;n#inspection_tool#0;n#profile#0;n#component#0;n#!!top" />
+                <element signature="n#list#0;n#option#0;n#inspection_tool#0;n#profile#0;n#component#0;n#!!top" />
+                <element signature="n#inspection_tool#1;n#profile#0;n#component#0;n#!!top" />
+                <element signature="n#inspection_tool#2;n#profile#0;n#component#0;n#!!top" />
+                <element signature="n#option#0;n#inspection_tool#2;n#profile#0;n#component#0;n#!!top" />
+                <element signature="n#list#0;n#option#0;n#inspection_tool#2;n#profile#0;n#component#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Controller/PostsController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="91" column="8" selection-start-line="91" selection-start-column="8" selection-end-line="91" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Controller/RecipesController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="541">
+              <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Console/Command/AppShell.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Controller/Component/CustomComponent.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Controller/Component/ExistingComponent.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Controller/ArticlesController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Controller/CommentsController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="DIFF">
+      <summary usageCount="1" lastUsed="1662270632279" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="1" lastUsed="1662270532255" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1662270207089" />
+    </fileType>
+    <fileType name="PHP">
+      <summary usageCount="8" lastUsed="1662270520109" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="1" lastUsed="1662270569314" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/app/Controller/PostsController.php" />
+      <option value="$PROJECT_DIR$/composer.json" />
+      <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cakeblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cakeblog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cakeblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cakeblog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cakeblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cakeblog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Console" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cakeblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cakeblog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Console" type="462c0819:PsiDirectoryNode" />
+              <item name="Command" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cakeblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cakeblog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Console" type="462c0819:PsiDirectoryNode" />
+              <item name="Command" type="462c0819:PsiDirectoryNode" />
+              <item name="Task" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cakeblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cakeblog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cakeblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cakeblog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
+              <item name="Component" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="cakeblog-history1" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1308000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25034723" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Bookmarks" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" visible="true" weight="0.33020833" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Code Notes" order="4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="4" visible="true" weight="0.32977387" />
+      <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="5" />
+      <window_info anchor="bottom" id="GraphQL" order="5" />
+      <window_info anchor="bottom" id="Flow" order="5" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="SonarLint" order="5" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="make" order="5" side_tool="true" />
+      <window_info anchor="right" id="documentation.v2" order="5" side_tool="true" />
+      <window_info anchor="right" id="Tree Of Usages" order="5" />
+    </layout>
+    <recentWindows>
+      <value>Commit</value>
+      <value>Project</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="1060" y="423" key="#CLI_Interpreters" timestamp="1662270287759">
+      <screen x="752" y="352" width="1440" height="796" />
+    </state>
+    <state x="1060" y="423" key="#CLI_Interpreters/752.352.1440.796@752.352.1440.796" timestamp="1662270287759" />
+    <state x="1106" y="446" key="#Inspections" timestamp="1662270394987">
+      <screen x="752" y="352" width="1440" height="796" />
+    </state>
+    <state x="1106" y="446" key="#Inspections/752.352.1440.796@752.352.1440.796" timestamp="1662270394987" />
+    <state x="1060" y="423" key="#PHP_CodeSniffer" timestamp="1662270541499">
+      <screen x="752" y="352" width="1440" height="796" />
+    </state>
+    <state x="1060" y="423" key="#PHP_CodeSniffer/752.352.1440.796@752.352.1440.796" timestamp="1662270541499" />
+    <state x="1151" y="544" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1662270514426">
+      <screen x="752" y="352" width="1440" height="796" />
+    </state>
+    <state x="1151" y="544" key="#com.intellij.fileTypes.FileTypeChooser/752.352.1440.796@752.352.1440.796" timestamp="1662270514426" />
+    <state x="981" y="400" key="SettingsEditor" timestamp="1662271579028">
+      <screen x="752" y="352" width="1440" height="796" />
+    </state>
+    <state x="981" y="400" key="SettingsEditor/752.352.1440.796@752.352.1440.796" timestamp="1662271579028" />
+    <state x="1072" y="501" key="Vcs.Push.Dialog.v2" timestamp="1662270721957">
+      <screen x="752" y="352" width="1440" height="796" />
+    </state>
+    <state x="1072" y="501" key="Vcs.Push.Dialog.v2/752.352.1440.796@752.352.1440.796" timestamp="1662270721957" />
+    <state x="1121" y="484" width="700" height="530" key="recent.locations.popup" timestamp="1662271149047">
+      <screen x="752" y="352" width="1440" height="796" />
+    </state>
+    <state x="1121" y="484" width="700" height="530" key="recent.locations.popup/752.352.1440.796@752.352.1440.796" timestamp="1662271149047" />
+    <state x="1135" y="462" width="672" height="685" key="search.everywhere.popup" timestamp="1662271405024">
+      <screen x="752" y="352" width="1440" height="796" />
+    </state>
+    <state x="1135" y="462" width="672" height="685" key="search.everywhere.popup/752.352.1440.796@752.352.1440.796" timestamp="1662271405024" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/AppController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/CommentsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/ArticlesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/PostsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="91" column="8" selection-start-line="91" selection-start-column="8" selection-end-line="91" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/RecipesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Console/Command/AppShell.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/Component/CustomComponent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/Component/ExistingComponent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="131" column="11" selection-start-line="131" selection-start-column="11" selection-end-line="131" selection-end-column="11" />
+          <folding>
+            <element signature="n#inspection_tool#0;n#profile#0;n#component#0;n#!!top" />
+            <element signature="n#option#0;n#inspection_tool#0;n#profile#0;n#component#0;n#!!top" />
+            <element signature="n#list#0;n#option#0;n#inspection_tool#0;n#profile#0;n#component#0;n#!!top" />
+            <element signature="n#inspection_tool#1;n#profile#0;n#component#0;n#!!top" />
+            <element signature="n#inspection_tool#2;n#profile#0;n#component#0;n#!!top" />
+            <element signature="n#option#0;n#inspection_tool#2;n#profile#0;n#component#0;n#!!top" />
+            <element signature="n#list#0;n#option#0;n#inspection_tool#2;n#profile#0;n#component#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,324 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="cakeblog" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Controller/CommentsController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Controller/PagesController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="704">
+              <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Controller/PostsController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1100">
+              <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Controller/RecipesController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Controller/UsersController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="JSON">
+      <summary usageCount="3" lastUsed="1662299319506" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1662296180174" />
+    </fileType>
+    <fileType name="PHP">
+      <summary usageCount="16" lastUsed="1662299321491" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/composer.json" />
+      <option value="$PROJECT_DIR$/app/Controller/PostsController.php" />
+      <option value="$PROJECT_DIR$/app/Controller/UsersController.php" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="cakeblog-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3058000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25034723" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25034723" />
+      <window_info id="Bookmarks" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" weight="0.33020833" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.6978643" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.49965277" side_tool="true" weight="0.32977387" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32977387" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.40012562" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Problems View" order="6" weight="0.32977387" />
+      <window_info anchor="bottom" id="Code Notes" order="7" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="8" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.50034726" weight="0.32977387" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="bottom" id="GraphQL" order="14" />
+      <window_info anchor="bottom" id="Flow" order="15" />
+      <window_info anchor="bottom" id="Services" order="16" weight="0.32977387" />
+      <window_info anchor="bottom" id="SonarLint" order="17" weight="0.32977387" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="make" order="1" side_tool="true" />
+      <window_info anchor="right" id="documentation.v2" order="2" side_tool="true" />
+      <window_info anchor="right" id="Tree Of Usages" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25034723" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25034723" />
+      <window_info id="Bookmarks" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" weight="0.33020833" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.6978643" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.49965277" side_tool="true" visible="true" weight="0.32977387" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32977387" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.40012562" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Problems View" order="6" weight="0.32977387" />
+      <window_info anchor="bottom" id="Code Notes" order="7" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="8" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.50034726" weight="0.32977387" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="bottom" id="GraphQL" order="14" />
+      <window_info anchor="bottom" id="Flow" order="15" />
+      <window_info anchor="bottom" id="Services" order="16" weight="0.32977387" />
+      <window_info anchor="bottom" id="SonarLint" order="17" weight="0.32977387" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="make" order="1" side_tool="true" />
+      <window_info anchor="right" id="documentation.v2" order="2" side_tool="true" />
+      <window_info anchor="right" id="Tree Of Usages" order="3" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Event Log</value>
+      <value>Commit</value>
+      <value>Problems View</value>
+      <value>Version Control</value>
+      <value>Services</value>
+      <value>Structure</value>
+      <value>Debug</value>
+      <value>Run</value>
+      <value>Project</value>
+      <value>SonarLint</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="1060" y="423" key="#CLI_Interpreters" timestamp="1662296253729">
+      <screen x="752" y="352" width="1440" height="796" />
+    </state>
+    <state x="1060" y="423" key="#CLI_Interpreters/752.352.1440.796@752.352.1440.796" timestamp="1662296253729" />
+    <state x="1125" y="432" key="#PHP" timestamp="1662296496429">
+      <screen x="752" y="352" width="1440" height="796" />
+    </state>
+    <state x="1125" y="432" key="#PHP/752.352.1440.796@752.352.1440.796" timestamp="1662296496429" />
+    <state x="952" y="415" width="1040" height="733" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1662296498117">
+      <screen x="752" y="352" width="1440" height="796" />
+    </state>
+    <state x="952" y="415" width="1040" height="733" key="#com.intellij.execution.impl.EditConfigurationsDialog/752.352.1440.796@752.352.1440.796" timestamp="1662296498117" />
+    <state x="1232" y="607" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1662296663309">
+      <screen x="752" y="352" width="1440" height="796" />
+    </state>
+    <state x="1232" y="607" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/752.352.1440.796@752.352.1440.796" timestamp="1662296663309" />
+    <state x="1315" y="523" key="FileChooserDialogImpl" timestamp="1662298790232">
+      <screen x="752" y="352" width="1440" height="796" />
+    </state>
+    <state x="1315" y="523" key="FileChooserDialogImpl/752.352.1440.796@752.352.1440.796" timestamp="1662298790232" />
+    <state x="1302" y="465" width="1091" height="700" key="SettingsEditor" timestamp="1662299284130">
+      <screen x="1072" y="417" width="1440" height="796" />
+    </state>
+    <state x="1302" y="465" key="SettingsEditor/1072.417.1440.796@1072.417.1440.796" timestamp="1662299284130" />
+    <state x="982" y="400" width="1091" height="700" key="SettingsEditor/752.352.1440.796@752.352.1440.796" timestamp="1662298821208" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1662299088930">
+      <screen x="1072" y="417" width="1440" height="796" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/1072.417.1440.796@1072.417.1440.796" timestamp="1662299088930" />
+    <state width="498" height="446" key="SwitcherDM/752.352.1440.796@752.352.1440.796" timestamp="1662297093762" />
+    <state width="600" height="400" key="javadoc.popup" timestamp="1662297260895">
+      <screen x="752" y="352" width="1440" height="796" />
+    </state>
+    <state width="600" height="400" key="javadoc.popup/752.352.1440.796@752.352.1440.796" timestamp="1662297260895" />
+    <state x="1441" y="549" width="700" height="530" key="recent.locations.popup" timestamp="1662299094222">
+      <screen x="1072" y="417" width="1440" height="796" />
+    </state>
+    <state x="1441" y="549" width="700" height="530" key="recent.locations.popup/1072.417.1440.796@1072.417.1440.796" timestamp="1662299094222" />
+    <state x="1121" y="484" width="700" height="530" key="recent.locations.popup/752.352.1440.796@752.352.1440.796" timestamp="1662297602529" />
+    <state x="1455" y="527" width="672" height="685" key="search.everywhere.popup" timestamp="1662299158522">
+      <screen x="1072" y="417" width="1440" height="796" />
+    </state>
+    <state x="1455" y="527" width="672" height="685" key="search.everywhere.popup/1072.417.1440.796@1072.417.1440.796" timestamp="1662299158522" />
+    <state x="1135" y="462" width="672" height="685" key="search.everywhere.popup/752.352.1440.796@752.352.1440.796" timestamp="1662297132449" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/Controller/AppController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/View/Posts/add.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/CommentsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/PostsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/RecipesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/PagesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/UsersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

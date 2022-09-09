@@ -1,4 +1,5 @@
 <?php
+declare(strict_types=1);
 
 class PostsController extends AppController
 {
@@ -39,7 +40,7 @@ class PostsController extends AppController
             if ($this->Post->save($this->request->data)) {
                 $this->Flash->success(__('Your post has been saved.'));
 
-                return $this->redirect('https://8765-' . substr(getenv('GITPOD_WORKSPACE_URL'),8));;
+                return $this->redirect('https://8765-' . substr(getenv('GITPOD_WORKSPACE_URL'), 8));
             }
 
             $this->Flash->error(__('Unable to add your post.'));
@@ -64,7 +65,7 @@ class PostsController extends AppController
             if ($this->Post->save($this->request->data)) {
                 $this->Flash->success(__('Your post has been updated.'));
 
-                return $this->redirect('https://8765-' . substr(getenv('GITPOD_WORKSPACE_URL'),8));;
+                return $this->redirect('https://8765-' . substr(getenv('GITPOD_WORKSPACE_URL'), 8));
             }
 
             $this->Flash->error(__('Unable to update your post.'));
@@ -87,7 +88,7 @@ class PostsController extends AppController
             $this->Flash->error(__('The post with id: %s could not be delete.', h($id)));
         }
 
-        return $this->redirect('https://8765-' . substr(getenv('GITPOD_WORKSPACE_URL'),8));;
+        return $this->redirect('https://8765-' . substr(getenv('GITPOD_WORKSPACE_URL'), 8));
     }
 
     public function my_action()
